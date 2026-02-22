@@ -1,0 +1,4111 @@
+{
+  "project": "Ghayrah-Shield",
+  "version": "0.1-Alpha",
+  "logs": [
+    {
+      "timestamp": "2026-02-22T04:08:28.693897",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:08:30.940527",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:08:33.188670",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:08:35.434812",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:08:37.681783",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:08:39.922966",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:08:42.155043",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:08:44.393317",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:08:46.631393",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:08:48.869000",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:08:51.108621",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:08:53.354332",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:08:55.602023",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:08:57.849638",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:09:00.082047",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:09:02.330371",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:09:04.564862",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:09:06.796955",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:09:09.047200",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:09:11.297742",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:09:13.537848",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:09:15.766579",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:09:18.006407",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:09:20.243963",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:09:22.475791",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:09:24.709622",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:09:26.947128",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:09:29.190880",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:09:31.442583",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:09:33.696554",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:09:35.938033",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:09:38.184301",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:09:40.422185",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:09:42.668277",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:09:44.906623",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:09:47.154102",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:09:49.394075",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:09:51.642218",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:09:53.880224",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:09:56.132694",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:09:58.379197",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:10:00.624646",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:10:02.868572",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:10:05.114074",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:10:07.363954",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:10:09.608672",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:10:11.867353",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:10:14.106758",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:10:16.346929",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:10:18.596891",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:10:20.857642",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:10:23.104483",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:10:25.340163",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:10:27.583090",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:10:29.817351",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:10:32.051386",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:10:34.280117",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:10:36.514090",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:10:38.779072",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:10:41.029148",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:10:43.261967",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "timestamp": "2026-02-22T04:10:45.507590",
+      "status": "SAFE",
+      "detail": "Screen scan approved."
+    },
+    {
+      "ts": "2026-02-22T04:14:09.464944",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:14:11.721231",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:14:13.962683",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:14:16.202879",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:14:18.444926",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:14:20.688932",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:14:22.939986",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:14:25.181939",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:14:27.438490",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:14:29.681442",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:14:31.920726",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:14:34.160500",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:14:36.409331",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:14:40.826367",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:14:44.661003",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:14:45.413028",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:14:46.156287",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:14:46.890857",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:14:47.632524",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:14:48.373824",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:14:49.115139",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:14:49.847763",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:14:50.589919",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:14:51.333848",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:14:52.078300",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:14:52.832649",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:14:53.583935",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:14:54.352932",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:14:55.110080",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:14:55.862421",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:14:56.632314",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:14:57.380436",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:14:58.132229",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:14:58.888665",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:14:59.640828",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:00.391242",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:01.137335",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:01.888361",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:02.630791",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:03.369362",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:04.111899",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:04.858763",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:05.606391",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:06.356993",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:07.103404",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:07.850263",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:08.600910",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:09.356070",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:10.115437",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:10.869106",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:11.615559",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:12.365764",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:13.111836",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:13.858629",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:14.600646",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:15.362253",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:16.101873",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:16.848483",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:17.593182",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:18.347781",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:19.104483",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:19.846402",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:20.588408",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:21.335820",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:22.076401",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:22.813340",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:23.550741",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:24.298662",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:25.039215",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:25.778149",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:26.515475",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:27.249002",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:27.985715",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:28.722431",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:29.467153",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:30.202306",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:30.953429",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:31.701791",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:32.452186",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:33.201598",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:33.953090",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:34.721660",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:35.467669",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:36.221520",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:36.967457",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:37.730637",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:38.477886",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:39.232729",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:39.980802",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:40.740816",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:41.487316",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:42.234258",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:42.984718",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:43.723523",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:44.473476",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:45.216528",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:45.967695",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:46.717493",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:47.470640",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:48.219116",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:48.962530",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:49.723684",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:50.474434",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:51.221992",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:51.964758",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:52.709231",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:53.461475",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:54.209481",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:54.952947",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:55.698917",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:56.463380",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:57.219334",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:57.974041",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:58.717177",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:15:59.466276",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:00.228870",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:00.981071",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:01.743523",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:02.497697",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:03.249955",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:04.003053",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:04.753051",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:05.503399",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:06.259972",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:07.016341",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:07.779152",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:08.543309",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:09.269107",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:09.292688",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:10.038143",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:10.781897",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:11.545300",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:12.300228",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:13.047382",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:13.790359",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:14.537898",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:15.285918",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:16.024865",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:16.778752",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:17.519842",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:18.268412",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:19.015243",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:19.760434",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:20.511205",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:21.259806",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:22.006852",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:22.760356",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:23.508877",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:24.252759",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:25.012290",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:25.771106",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:26.531841",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:27.266784",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:28.011169",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:28.750497",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:29.496224",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:30.241002",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:30.982978",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:31.721465",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:32.467948",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:33.213659",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:33.955342",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:34.690594",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:35.434232",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:36.190009",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:36.939101",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:37.712982",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:38.469739",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:39.220856",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:39.978983",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:40.738033",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:41.500889",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:42.259541",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:43.012195",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:43.776658",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:44.537854",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:45.284815",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:46.046740",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:46.815098",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:47.585738",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:48.334766",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:49.084796",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:49.841455",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:50.605232",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:51.364239",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:52.128950",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:52.893823",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:53.656248",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:54.420162",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:55.185350",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:55.938163",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:56.681265",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:57.423297",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:58.169320",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:58.903372",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:16:59.638130",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:00.379804",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:01.118329",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:01.862809",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:02.607455",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:03.353992",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:04.098067",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:04.831658",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:05.580018",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:06.327824",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:07.074448",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:07.812884",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:08.562992",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:09.313289",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:10.076511",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:10.827079",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:11.568543",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:12.316303",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:13.054528",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:13.807521",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:14.567452",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:15.326276",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:16.075539",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:16.825154",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:17.586473",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:18.332733",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:19.091881",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:19.843299",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:20.604112",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:21.362488",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:22.114421",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:22.880924",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:23.635465",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:24.389092",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:25.132037",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:25.885536",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:26.637384",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:27.383290",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:28.135387",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:28.885740",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:29.628134",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:30.371336",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:31.120667",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:31.861776",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:32.600324",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:33.340979",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:34.081955",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:34.822277",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:35.569514",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:36.331183",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:37.073434",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:37.803597",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:38.548303",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:39.288194",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:40.033314",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:40.778329",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:41.535875",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:42.283874",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:43.036273",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:43.781600",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:44.527919",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:45.270532",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:46.032123",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:46.785090",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:47.532667",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:48.299448",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:49.055994",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:49.805144",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:50.564107",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:51.310464",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:52.058056",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:52.807826",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:53.569701",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:54.315288",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:55.066919",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:55.826380",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:56.586507",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:57.327886",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:58.079448",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:58.830831",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:17:59.589433",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:00.354245",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:01.108301",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:01.858022",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:02.625092",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:03.370631",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:04.113996",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:04.860314",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:05.603132",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:06.347234",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:07.104150",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:07.859545",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:08.601978",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:09.348776",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:10.088423",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:10.841317",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:11.596355",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:12.361251",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:13.112077",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:13.851330",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:14.602247",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:15.353547",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:16.094979",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:16.832715",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:17.574729",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:18.331626",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:19.072509",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:19.814636",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:20.562108",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:21.297421",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:22.042842",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:22.792304",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:23.548408",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:24.282636",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:25.037539",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:25.781144",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:26.526332",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:27.288473",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:28.055379",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:28.818222",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:29.571793",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:30.324839",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:31.094596",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:31.850153",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:32.594401",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:33.360153",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:34.113855",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:34.861852",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:35.624233",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:36.387316",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:37.135948",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:37.894403",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:38.647944",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:39.397101",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:40.159252",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:40.915479",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:41.672125",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:42.420425",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:43.173525",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:43.929837",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:44.704087",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:45.455705",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:46.209709",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:46.956360",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:47.713647",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:48.468823",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:49.219143",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:49.982676",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:50.737552",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:51.507758",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:52.258883",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:53.028284",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:53.785358",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:54.523055",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:55.276303",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:56.037256",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:56.787672",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:57.541598",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:58.301677",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:59.058231",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:18:59.809102",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:00.550543",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:01.304209",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:02.079522",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:02.828167",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:03.599279",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:04.352444",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:05.098736",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:05.842611",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:06.602381",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:07.361273",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:08.115087",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:08.865170",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:09.629609",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:10.390473",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:11.147950",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:11.929029",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:12.683779",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:13.435763",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:14.182009",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:14.959996",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:15.712332",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:16.473206",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:17.243839",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:18.001200",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:18.753356",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:19.505647",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:20.261286",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:21.021373",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:21.773061",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:22.530455",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:23.285314",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:24.032236",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:24.799935",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:25.557851",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:26.319309",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:27.073495",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:27.839118",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:28.601339",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:29.352309",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:30.096372",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:30.850798",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:31.603868",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:32.347986",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:33.101409",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:33.853760",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:34.607061",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:35.353339",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:36.096729",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:36.844994",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:37.587332",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:38.331428",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:39.081175",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:39.830319",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:40.566515",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:41.309195",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:42.049278",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:42.799099",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:43.543890",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:44.289500",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:45.042893",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:45.788605",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:46.536012",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:47.286452",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:48.045833",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:48.798787",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:49.560285",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:50.328845",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:51.079661",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:51.842808",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:52.597727",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:53.362482",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:54.117202",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:54.869665",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:55.630264",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:56.385511",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:57.138514",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:57.891584",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:58.631710",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:19:59.376212",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:00.120244",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:00.866202",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:01.619799",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:02.361774",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:03.110269",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:03.914050",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:04.665197",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:05.409893",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:06.157145",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:06.901651",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:07.637634",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:08.382899",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:09.123981",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:09.883588",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:10.644908",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:11.388751",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:12.133157",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:12.876727",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:13.639045",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:14.383846",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:15.125725",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:15.863849",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:16.612550",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:17.358232",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:18.108336",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:18.851803",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:19.591290",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:20.340034",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:21.083989",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:21.835642",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:22.578447",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:23.317711",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:24.061439",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:24.814449",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:25.569805",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:26.321135",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:27.065754",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:27.806265",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:28.555915",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:29.309061",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:30.048509",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:30.797602",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:31.544739",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:32.290421",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:33.048995",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:33.792411",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:34.529249",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:35.331723",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:36.073914",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:36.821961",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:37.562193",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:38.309165",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:39.051502",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:39.802944",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:40.553851",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:41.309652",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:42.049552",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:42.799321",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:43.547377",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:44.292437",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:45.043044",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:45.801334",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:46.539870",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:47.289887",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:48.035006",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:48.782965",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:49.520780",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:50.261759",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:51.009339",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:51.756109",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:52.497846",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:53.243539",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:53.988808",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:54.745451",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:55.496407",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:56.238022",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:56.976515",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:57.719559",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:58.475587",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:20:59.239824",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:00.009147",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:00.765598",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:01.533547",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:02.305407",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:03.050238",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:03.807764",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:04.556017",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:05.312228",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:06.061633",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:06.817651",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:07.577629",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:08.341090",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:09.102218",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:09.849155",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:10.598667",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:11.358551",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:12.116241",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:12.874965",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:13.620775",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:14.376097",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:15.132527",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:15.890940",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:16.635146",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:17.402724",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:18.160870",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:18.916519",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:19.690335",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:20.453728",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:21.206785",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:21.964336",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:22.718684",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:23.469076",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:24.222594",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:24.978687",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:25.735542",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:26.476404",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:27.230317",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:27.976720",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:28.735494",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:29.496115",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:30.243396",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:30.993728",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:31.745893",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:32.501955",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:33.258529",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:34.025732",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:34.778752",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:35.528796",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:36.280833",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:37.024857",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:37.772824",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:38.522011",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:39.278724",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:40.036405",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:40.784516",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:41.535149",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:42.284261",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:43.028793",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:43.781296",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:44.523686",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:45.273848",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:46.015258",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:46.770900",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:47.524205",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:48.266141",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:49.015042",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:49.759230",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:50.512171",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:51.259173",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:52.010791",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:52.754512",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:53.506026",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:54.270811",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:55.017716",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:55.769028",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:56.513244",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:57.266473",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:58.019703",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:58.771411",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:21:59.525056",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:00.265689",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:01.010654",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:01.769683",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:02.517123",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:03.262837",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:04.012421",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:04.760521",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:05.508937",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:06.254239",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:07.004689",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:07.754205",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:08.494633",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:09.248392",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:09.992332",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:10.745472",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:11.487292",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:12.228642",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:12.970278",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:13.726676",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:14.476703",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:15.232057",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:15.976428",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:16.727240",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:17.474795",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:18.220753",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:18.968654",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:19.717260",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:20.456954",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:21.205425",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:21.954525",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:22.711258",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:23.448599",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:24.198146",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:24.945710",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:25.698111",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:26.453151",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:27.201967",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:27.953488",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:28.705395",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:29.455641",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:30.206981",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:30.956495",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:31.701327",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:32.445773",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:33.191094",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:33.950669",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:34.709863",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:35.464881",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:36.210529",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:36.957402",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:37.718972",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:38.461148",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:39.211182",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:39.957439",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:40.715553",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:41.463587",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:42.212008",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:42.955259",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:43.706499",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:44.456246",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:45.216513",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:45.962276",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:46.718708",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:47.478022",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:48.226075",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:48.967517",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:49.709079",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:50.453686",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:51.200143",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:51.948404",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:52.698247",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:53.444583",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:54.181883",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:54.931135",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:55.681872",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:56.434274",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:57.181205",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:57.936369",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:58.688987",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:22:59.443799",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:00.192749",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:00.946253",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:01.702077",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:02.462032",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:03.215487",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:03.974645",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:04.720851",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:05.469045",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:06.222123",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:06.969689",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:07.723604",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:08.484039",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:09.243254",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:09.989511",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:10.732021",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:11.488557",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:12.233406",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:12.977564",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:13.721099",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:14.470858",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:15.222522",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:15.965561",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:16.737508",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:17.482468",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:18.224631",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:18.965951",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:19.712132",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:20.465242",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:21.217394",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:21.971075",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:22.722005",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:23.466304",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:24.226254",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:24.985489",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:25.731858",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:26.498469",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:27.258048",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:28.012107",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:28.759875",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:29.525994",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:30.293101",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:31.044761",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:31.795123",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:32.564459",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:33.325538",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:34.070027",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:34.820700",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:35.572761",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:36.333121",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:37.089695",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:37.837941",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:38.594925",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:39.346259",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:40.094597",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:40.851847",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:41.595039",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:42.348752",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:43.091178",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:43.841315",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:44.598267",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:45.353964",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:46.109262",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:46.857614",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:47.599806",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:48.343391",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:49.085653",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:49.832361",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:50.578761",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:51.332211",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:52.074536",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:52.823918",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:53.575538",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:54.334260",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:55.093218",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:55.842930",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:56.594710",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:57.344668",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:58.092886",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:58.840095",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:23:59.593508",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:24:00.341480",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:24:01.107393",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:24:01.865481",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    },
+    {
+      "ts": "2026-02-22T04:24:02.623031",
+      "st": "SAFE",
+      "det": "Infrastruktur-Check erfolgreich."
+    }
+  ]
+}
